@@ -1,0 +1,7 @@
+C:\Users\mabubaker\source\repos\MouseUpConsoleApp\MouseUpConsoleApp\bin\Debug\MouseUpConsoleApp.exe.config
+C:\Users\mabubaker\source\repos\MouseUpConsoleApp\MouseUpConsoleApp\bin\Debug\MouseUpConsoleApp.exe
+C:\Users\mabubaker\source\repos\MouseUpConsoleApp\MouseUpConsoleApp\bin\Debug\MouseUpConsoleApp.pdb
+C:\Users\mabubaker\source\repos\MouseUpConsoleApp\MouseUpConsoleApp\obj\Debug\MouseUpConsoleApp.csprojAssemblyReference.cache
+C:\Users\mabubaker\source\repos\MouseUpConsoleApp\MouseUpConsoleApp\obj\Debug\MouseUpConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\mabubaker\source\repos\MouseUpConsoleApp\MouseUpConsoleApp\obj\Debug\MouseUpConsoleApp.exe
+C:\Users\mabubaker\source\repos\MouseUpConsoleApp\MouseUpConsoleApp\obj\Debug\MouseUpConsoleApp.pdb
